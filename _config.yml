@@ -23,12 +23,12 @@ repository               : "oscar-s-p.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo_visa.jpg"
+  avatar           : "osp_orbit-512x512.png" # "photo_visa.jpg" uncomment _sidebar.scss to make circle again
   name             : "Oscar Soler Pérez"
   pronouns         : # example: "she/her"  
   bio              : "An early-carreer astrophysicist"
   location         : "San Francisco, CA, US"
-  employer         : "Light Bridges & University of San Francisco"
+  employer         : "Light Bridges and USF"
   uri              : # URL
   email            : "osolertf@gmail.com" 
 
@@ -224,6 +224,12 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  experience:
+    output: true
+    permalink: /:collection/:path/
+  thesis:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -259,6 +265,24 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # experience
+  - scope:
+      path: ""
+      type: experience
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # thesis
+  - scope:
+      path: ""
+      type: thesis
     values:
       layout: single
       author_profile: true
