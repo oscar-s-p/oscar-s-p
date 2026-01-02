@@ -23,7 +23,7 @@ repository               : "oscar-s-p.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "osp_orbit-512x512.png" # "photo_visa.jpg" uncomment _sidebar.scss to make circle again
+  avatar           : "photo_visa.jpg" # "osp_orbit-512x512.png" # uncomment _sidebar.scss to make circle again
   name             : "Oscar Soler Pérez"
   pronouns         : # example: "she/her"  
   bio              : "An early-carreer astrophysicist"
