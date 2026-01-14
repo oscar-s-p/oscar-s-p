@@ -22,14 +22,14 @@ Both Tenerife and La Palma have a special perk: high-altitude terrain thanks to 
 <p style="text-align:center;">
 <br/>
 <img src='{{ site.baseurl }}/images/personal/teide_obs.jpg' 
-     alt="Teide Observatory" 
+     alt="Test image" 
      style="width:63%;">
 <figcaption>Views of the Teide Observatory from the GREGOR Solar Telescope. I analyzed its observations during my Summer Research Internship in 2024.</figcaption>
 </p>
 </figure>
 
 <p>Test image:</p>
-<img src="{{ site.baseurl }}/images/personal/gregor.jpg" alt="Gregor telescope" style="width:40%;">
+<img src="{{ site.baseurl }}/images/personal/gregor.jpg" alt="Test Gregor telescope" style="width:40%;">
 
 <figure>
 <p style="text-align:center;">
