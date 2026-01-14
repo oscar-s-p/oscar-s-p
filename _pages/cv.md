@@ -12,8 +12,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Astrophysics, Universidad de La Laguna, 2025
-* B.S. in Physics, Universidad de La Laguna, 2023
+* M.S. in Astrophysics, Universidad de La Laguna, 2025. Details on Thesis [here](/thesis/master_thesis)
+* B.S. in Physics, Universidad de La Laguna, 2023. Details on Thesis [here](/thesis/bachelor_thesis)
 
 ------
 
@@ -23,14 +23,16 @@ Research experience
   * Multi-epoch photometric follow-up of gravitationally lensed quasars with the [Two-meter Twin Telescope](https://ttt.iac.es/) facility
   * Time-delay-sensitive modeling with the GIGA-Lens code
   * Supervisors: Miquel Serra-Ricart & Xiaosheng Huang
+  * More details [here](/experience/grav_lens)
 
 * (_07-09/2025_)  Instituto de Astrofísica de Canarias (IAC)  
 Summer Research Internship
   * Project: "Deep probing of umbral magneto-convection"
   * Analysis of observational data from the Gregor solar telescope
   * Usage of [SIR code](https://ui.adsabs.harvard.edu/abs/1992ApJ...398..375R) for solar atmosphere inversions and HTCondor for parallelization.
+  * More details [here](/experience/IAC_summer)
 
-* (_03-05/2023_) DISA
+* (_03-05/2023_) [DISA](https://www.disagrupo.es/) (Energy company in Spain)
   * Sales predictive model
   * Microsoft Azure
   * Machine learning with python packages such as pytorch, tensorflow and pyspark

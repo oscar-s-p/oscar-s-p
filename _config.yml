@@ -166,6 +166,12 @@ include:
   - _pages
   - files
 exclude:
+  - _talks
+  - _publications
+  - _teaching
+  - _posts
+  - _portfolio
+  - talkmap
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
