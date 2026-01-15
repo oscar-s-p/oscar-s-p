@@ -44,7 +44,7 @@ In my free time I love exercising. I've been into running and surfing for while,
 <br/>
 <figure>
 <p style="text-align:center;">
-<img src='{{ site.baseurl }}/images/personal/surf.jpg' 
+<img src='{{ site.baseurl }}/images/personal/surf.JPG' 
      alt="Me surfing in the Canary Islands" 
      style="width:64%;">
 <img src='{{ site.baseurl }}/images/personal/bike_sf.jpg'
@@ -61,7 +61,7 @@ I am also passionate about exploring and nature. I love hiking to the tallest pe
 <img src='{{ site.baseurl }}/images/personal/dolomitas.jpg' 
      alt="Me in the Dolomites" 
      style="width:49%;">
-<img src='{{ site.baseurl }}/images/personal/asturias.jpg'
+<img src='{{ site.baseurl }}/images/personal/asturias.JPG'
     alt='Me in Picos de Europa, in Asturias'
     style="width:49%;">
 <figcaption>Me in the mountains. On the left I am in the Dolomites, in Italy. On the right, I am on Picos de Europa, in Asturias, Spain.</figcaption>
