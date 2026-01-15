@@ -12,8 +12,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Astrophysics, Universidad de La Laguna, 2025. Details on Thesis [here](/thesis/master_thesis)
-* B.S. in Physics, Universidad de La Laguna, 2023. Details on Thesis [here](/thesis/bachelor_thesis)
+* M.S. in Astrophysics, Universidad de La Laguna, 2025. Details on Thesis [here]({{site.baseurl}}/thesis/master_thesis)
+* B.S. in Physics, Universidad de La Laguna, 2023. Details on Thesis [here]({{site.baseurl}}/thesis/bachelor_thesis)
 
 ------
 
