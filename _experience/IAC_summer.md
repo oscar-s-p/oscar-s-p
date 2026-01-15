@@ -17,9 +17,9 @@ Main responsibilities:
 
 After the first year of my Master’s Degree I had the opportunity to complete this three-month Summer Research Internship, working on the project “Deep probing of Umbral Magnetoconvection” supervised by Tobías Felipe and Juan Carlos Trelles. I gained valuable experience in observational techniques and data analysis, improving my Python skills and using scientific software for inverting spectropolarimetric profiles and retrieving physical parameters of the solar atmosphere. I also learned about high-performance computing by using the HTCondor software to parallelize large calculations.
 
-The slides of the presentation I made about this project are available [here](/files/IAC_Summer_Umbral_magnetoconvection.pdf) and below.
+The slides of the presentation I made about this project are available [here]({{site.baseurl}}/files/IAC_Summer_Umbral_magnetoconvection.pdf) and below.
 
-<embed src="/files/IAC_Summer_Umbral_magnetoconvection.pdf"
+<embed src="{{site.baseurl}}/files/IAC_Summer_Umbral_magnetoconvection.pdf"
        type="application/pdf"
        width="100%"
        height="500px">
