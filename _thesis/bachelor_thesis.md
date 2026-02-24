@@ -16,7 +16,7 @@ We evaluated a method used by some authors to speed calculations by artificially
 
 The work can be seen published in the Universidad de La Laguna's institutional repository: [https://riull.ull.es/xmlui/handle/915/33125](https://riull.ull.es/xmlui/handle/915/33125), and is attached below.
 
-<embed src="{{site.baseurl}}/files/TFG.pdf"
+<embed src="{{site.baseurl}}/files/TFG_Oscar.pdf"
        type="application/pdf"
        width="100%"
        height="1000px">
