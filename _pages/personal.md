@@ -40,21 +40,21 @@ Both Tenerife and La Palma have a special perk: high-altitude terrain thanks to 
 </p>
 </figure>
 
-In my free time I love exercising. I've been into running and surfing for while, and now I have started training for a triathlon! 
+In my free time I love exercising. I've been into running and surfing for a while, and now I have included cycling and swimming, aiming to become a triathle!
 <br/>
 <figure>
 <p style="text-align:center;">
 <img src='{{ site.baseurl }}/images/personal/surf.JPG' 
      alt="Me surfing in the Canary Islands" 
      style="width:64%;">
-<img src='{{ site.baseurl }}/images/personal/bike_sf.jpg'
-    alt='Me biking in San Francisco'
+<img src='{{ site.baseurl }}/images/personal/bike_teide.jpg'
+    alt='Me biking in the Teide, Tenerife'
     style="width:32%;">
-<figcaption>Me surfing in Tenerife and biking in San Francisco.</figcaption>
+<figcaption>Me surfing and biking in Tenerife.</figcaption>
 </p>
 </figure>
 
-I am also passionate about exploring and nature. I love hiking to the tallest peaks around to enjoy sunsets.
+I am also passionate about exploring nature. I love hiking to the tallest peaks around to enjoy sunsets.
 <br/>
 <figure>
 <p style="text-align:center;">
@@ -67,3 +67,17 @@ I am also passionate about exploring and nature. I love hiking to the tallest pe
 <figcaption>Me in the mountains. On the left I am in the Dolomites, in Italy. On the right, I am on Picos de Europa, in Asturias, Spain.</figcaption>
 </p>
 </figure>
+
+<br/>
+<figure>
+<p style="text-align:center;">
+<img src='{{ site.baseurl }}/images/personal/FaF26_1.jpg' 
+     alt="Views from Las Narices del Teide" 
+     style="width:49%;">
+<img src='{{ site.baseurl }}/images/personal/FaF26_2.JPG'
+    alt='Views from Valle de la Orotava'
+    style="width:49%;">
+<figcaption>And the summer of 2026 I did a crazy adventure: I hiked through Tenerife, from side to side!</figcaption>
+</p>
+</figure>
+

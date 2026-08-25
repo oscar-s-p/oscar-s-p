@@ -26,9 +26,9 @@ author:
   avatar           : "photo_visa.jpg" # "osp_orbit-512x512.png" # uncomment _sidebar.scss to make circle again
   name             : "Oscar Soler Pérez"
   pronouns         : # example: "she/her"  
-  bio              : "An early-career astrophysicist"
-  location         : "San Francisco, CA, US"
-  employer         : "Light Bridges and USF"
+  bio              : "PhD candidate"
+  location         : "Oslo, Norway"
+  employer         : "Rosseland Centre for Solar Physics and Universitet i Oslo"
   uri              : # URL
   email            : "osolertf@gmail.com" 
 

@@ -19,7 +19,7 @@ Education
 
 Research experience
 ======
-* (_10/2025 - Present_)  Light Bridges & the University of San Francisco
+* (_10/2025 - 04/2026_)  Light Bridges & the University of San Francisco
   * Multi-epoch photometric follow-up of gravitationally lensed quasars with the [Two-meter Twin Telescope](https://ttt.iac.es/) facility
   * Time-delay-sensitive modeling with the GIGA-Lens code
   * Supervisors: Miquel Serra-Ricart & Xiaosheng Huang
