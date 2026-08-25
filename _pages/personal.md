@@ -71,7 +71,7 @@ I am also passionate about exploring nature. I love hiking to the tallest peaks 
 <br/>
 <figure>
 <p style="text-align:center;">
-<img src='{{ site.baseurl }}/images/personal/FaF26_1.jpg' 
+<img src='{{ site.baseurl }}/images/personal/FaF26_1.JPG' 
      alt="Views from Las Narices del Teide" 
      style="width:49%;">
 <img src='{{ site.baseurl }}/images/personal/FaF26_2.JPG'
