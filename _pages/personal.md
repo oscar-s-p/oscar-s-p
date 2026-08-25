@@ -77,7 +77,7 @@ I am also passionate about exploring nature. I love hiking to the tallest peaks 
 <img src='{{ site.baseurl }}/images/personal/FaF26_2.JPG'
     alt='Views from Valle de la Orotava'
     style="width:49%;">
-<figcaption>And the summer of 2026 I did a crazy adventure: I hiked through Tenerife, from side to side!</figcaption>
+<figcaption>And the summer of 2026 I did a crazy adventure: I hiked all across Tenerife, from left to right!</figcaption>
 </p>
 </figure>
 
