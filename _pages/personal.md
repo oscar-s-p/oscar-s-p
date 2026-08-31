@@ -47,7 +47,7 @@ In my free time I love exercising. I've been into running and surfing for a whil
 <img src='{{ site.baseurl }}/images/personal/surf.JPG' 
      alt="Me surfing in the Canary Islands" 
      style="width:64%;">
-<img src='{{ site.baseurl }}/images/personal/bike_teide.jpg'
+<img src='{{ site.baseurl }}/images/personal/bike_teide.jpeg'
     alt='Me biking in the Teide, Tenerife'
     style="width:32%;">
 <figcaption>Me surfing and biking in Tenerife.</figcaption>
