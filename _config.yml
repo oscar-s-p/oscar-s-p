@@ -168,7 +168,7 @@ include:
 exclude:
   - _talks
   - _publications
-  - _teaching
+#  - _teaching
   - _posts
   - _portfolio
   - talkmap
