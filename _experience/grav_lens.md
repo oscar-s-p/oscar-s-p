@@ -17,7 +17,7 @@ Main responsibilities:
 
 -------
 
-After finishing my Master’s Degree I was awarded an ICEX Vives Fellowship by the Spanish Government that has granted me the opportunity to travel to California and work at the University of San Francisco (USF) in collaboration with Light Bridges and their Two-meter Twin Telescope (TTT) facility in the Observatorio del Teide.  I have been working at USF under Professor Xiaosheng Huang since late October, where I am gaining valuable experience in the full cycle of observational campaigns, from planning to data acquisition and scientific reporting. In parallel, I am working with the GIGA-Lens code in order to model gravitationally lensed quasars to be compared later with multi-epoch photometric observations, strengthening my knowledge about machine learning and inference methods.
+After finishing my Master’s Degree I was awarded an ICEX Vives Fellowship by the Spanish Government that granted me the opportunity to travel to California and work at the University of San Francisco (USF) in collaboration with Light Bridges and their Two-meter Twin Telescope (TTT) facility in the Observatorio del Teide.  I worked at USF under Professor Xiaosheng Huang since late October, where I am gained valuable experience in the full cycle of observational campaigns, from planning to data acquisition and scientific reporting. In parallel, I worked with the GIGA-Lens code in order to model gravitationally lensed quasars to be compared later with multi-epoch photometric observations, strengthening my knowledge about machine learning and inference methods.
 
-Additionally I am collaborating with the Canary Global Foundation in educational and outreach projects. In February 2026 I will be teaching two classes of the course "Mission Exoplanets"
+Additionally I collaborated with the Canary Global Foundation in educational and outreach projects. In February 2026 I taught two classes of the course "Mission Exoplanets".
 
