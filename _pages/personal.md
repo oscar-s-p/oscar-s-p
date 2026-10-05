@@ -36,7 +36,7 @@ Both Tenerife and La Palma have a special perk: high-altitude terrain thanks to 
 <img src='{{ site.baseurl }}/images/personal/mw.jpg'
     alt='Cool picture of the Milky Way from the Teide Observatory'
     style="width:49%;">
-<figcaption>On the right, the views from the Observatorio del Roque de los Muchachos, in La Palma. On the left, a cool picture of the Milky Way taken with my phone in the Observatorio del Teide, in Tenerife.</figcaption>
+<figcaption>On the left, the views from the Observatorio del Roque de los Muchachos, in La Palma. On the right, a cool picture of the Milky Way taken with my phone in the Observatorio del Teide, in Tenerife.</figcaption>
 </p>
 </figure>
 
