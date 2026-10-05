@@ -7,15 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Solar Physics, with research interest in innovative computational approaches to perform simulations, modeling and analysis of large volumes of data.
-
-I have experience in magnetohydrodynamic (MHD) simulations, gravitational lensing, and computational methods (Python, AI/ML) for modeling and data analysis as key tools to understand complex phenomena, extract valuable insights, solve problems, and make predictions.
+I am a PhD candidate at the Rosseland Centre for Solar Physics, part of the University of Oslo. My research will be focused on the implementation of Particle-in-Cell (PIC) methods within radiative magnetohydrodynamic simulations (RMHD) in order to create full simulations of the solar atmosphere that correctly capture the internal physics of a solar flare as it forms. The code will be built on the DISPATCH numerical framework.
 
 Research Experience [(more here)]({{site.baseurl}}/experience/)
 ------
-Currently I am pursuing a PhD at the Rosseland Centre for Solar Physics, based in Oslo.
+Before starting my current PhD position, I took part in two different research projects.
 
-Previously, I conducted a 6-month research project at the University of San Francisco under Porf. Xiaosheng Huang, in collaboration with Light Bridges (Tenerife, Spain). We obtained multi-epoch photometric follow-up of gravitationally lensed quasars with the [Two-meter Twin Telescope](https://ttt.iac.es/) facility (Tenerife) and performed time-delay-sensitive modeling with the [GIGA-Lens code](https://github.com/giga-lens/gigalens).
+I conducted a 6-month research project at the University of San Francisco under Porf. Xiaosheng Huang, in collaboration with Light Bridges (Tenerife, Spain). We obtained multi-epoch photometric follow-up of gravitationally lensed quasars with the [Two-meter Twin Telescope](https://ttt.iac.es/) facility (Tenerife) and performed time-delay-sensitive modeling with the [GIGA-Lens code](https://github.com/giga-lens/gigalens).
 
 Earlier on, I developed a 3-month project at the Instituto Astrofísico de Canarias during the summer of 2024. We performed deep probing of umbral magneto-convection by analyzing observational data from the Gregor solar telescope and calculating the atmospheric profile through the inversion of spectropolarimetric signals. 
 
